@@ -1,5 +1,5 @@
 import React, { useState, useRef } from 'react';
-import { Upload as UploadIcon, File as FileIcon, X, Check, Copy, Clock, Loader2 } from 'lucide-react';
+import { Upload as UploadIcon, X, Check, Copy, Clock } from 'lucide-react';
 import axios from 'axios';
 import { motion, AnimatePresence } from 'framer-motion';
 
